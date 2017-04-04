@@ -5,7 +5,7 @@ using std::cin; using std::cout; using std::endl; using std::runtime_error;
 int main(void)
 {
 	int i, j;
-	cout << "please input tow numbers: " << endl;
+	cout << "please input two numbers: " << endl;
 	while (cin >> i >> j)
 	{
 		try
